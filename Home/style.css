@@ -1,4 +1,22 @@
-header{
+h1{
+    background-color: aqua;
+}
+
+
+
+div{
     position: relative;
-    font-size: 255%;
+    left: 0px;
+    border: 4px solid #73AD21;
+  font-size: 40px;
+    background-color:black;
+
+
+}
+
+html{
+    background-color:black;
+}
+head{
+    background-color:black;
 }
